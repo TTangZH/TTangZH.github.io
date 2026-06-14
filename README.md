@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" markdown="1">
-  <a href="mailto:tang@example.com"><img src="https://img.shields.io/badge/Email-tang%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:707567735@qq.com"><img src="https://img.shields.io/badge/Email-tang%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/TTangZH"><img src="https://img.shields.io/badge/GitHub-TTangZH-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Location-China-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" /></a>
 </p>
