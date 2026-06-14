@@ -1,8 +1,8 @@
-<p align="center">
+<p align="center" markdown="1">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Tang+%F0%9F%91%8B;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Tang;Embedded+Systems+%7C+Motion+Control;%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F+%7C+%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="center" markdown="1">
   <a href="mailto:tang@example.com"><img src="https://img.shields.io/badge/Email-tang%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/TTangZH"><img src="https://img.shields.io/badge/GitHub-TTangZH-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Location-China-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" /></a>
@@ -28,7 +28,7 @@ I am a researcher and engineer passionate about **embedded systems** and **motio
 
 ## 🔬 Research Interests · 研究方向
 
-<div align="center">
+<div align="center" markdown="1">
 
 | 🧩 Embedded Systems | ⚙️ Motion Control | 🤖 Robotics |
 |:---:|:---:|:---:|
